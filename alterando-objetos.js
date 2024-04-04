@@ -11,3 +11,7 @@ console.log(estudante);
 
 estudante.nome = 'José Souza';
 console.log(estudante);
+
+const estudante2 = {};
+estudante2.nome = 'Ana Maria'
+console.log(estudante2);
